@@ -1,20 +1,20 @@
-BlackBox 0.0.0.1
-By: DoomHawk
+#BlackBox 0.0.0.1
+###By: DoomHawk
 ------------------------
-BlackBox - A full function, all-in-one flight data recorder/logger
+##BlackBox - A full function, all-in-one flight data recorder/logger
 ***************************************
-*          Purpose & Features         *
+#          Purpose & Features         #
 ***************************************
 ---------------------------------------
-Purpose:
+##Purpose:
 ---------------------------------------
 The purpose of BlackBox is to create a full-featured flight data recorder/logger for Kerbal Space Program
 ---------------------------------------
-Current Features:
+##Current Features:
 ---------------------------------------
 
 ---------------------------------------
-Proposed Features:
+##Proposed Features:
 ---------------------------------------
 -Delta-V logging
 -Resource logging
@@ -22,16 +22,16 @@ Proposed Features:
 -SQL Data historian
 
 ---------------------------------------
-Cancelled Features:
+##Cancelled Features:
 ---------------------------------------
 
 ***************************************
-*           Version History           *
+#           Version History           #
 ***************************************
-Version 0.0.0.1
+* Version 0.0.0.1
 -
 
 ***************************************
-*             Installation            *
+#             Installation            #
 ***************************************
 
